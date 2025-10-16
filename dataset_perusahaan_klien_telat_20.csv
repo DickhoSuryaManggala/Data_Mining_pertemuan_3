@@ -1,0 +1,21 @@
+ID,Batas_Kredit,Jenis_Kelamin,Pendidikan,Status_Pernikahan,Umur,Riwayat_Pembayaran_BulanLalu,Tagihan_Bulan1,Pembayaran_Bulan1,Status_Pembayaran
+1,2000000,Laki-laki,2,Menikah,25,-1,500000,500000,Tepat
+2,3500000,Perempuan,3,Belum Menikah,30,0,600000,600000,Tepat
+3,5000000,Laki-laki,2,Menikah,28,1,450000,300000,Telat
+4,1500000,Perempuan,1,Belum Menikah,35,2,700000,400000,Telat
+5,2700000,Laki-laki,2,Menikah,40,0,800000,800000,Tepat
+6,3200000,Perempuan,3,Belum Menikah,22,1,550000,200000,Telat
+7,4200000,Laki-laki,1,Menikah,45,-1,900000,500000,Telat
+8,2500000,Perempuan,2,Belum Menikah,33,2,620000,600000,Telat
+9,3000000,Laki-laki,3,Menikah,29,0,580000,400000,Telat
+10,4000000,Perempuan,2,Belum Menikah,31,1,640000,600000,Tepat
+11,2300000,Laki-laki,1,Menikah,38,2,720000,700000,Telat
+12,2800000,Perempuan,2,Belum Menikah,27,-1,510000,300000,Telat
+13,3600000,Laki-laki,3,Menikah,36,0,660000,660000,Tepat
+14,3100000,Perempuan,2,Belum Menikah,34,1,570000,400000,Telat
+15,4500000,Laki-laki,1,Menikah,41,2,750000,500000,Tepat
+16,2200000,Perempuan,3,Belum Menikah,26,0,590000,200000,Telat
+17,2600000,Laki-laki,2,Menikah,39,-1,610000,600000,Tepat
+18,3400000,Perempuan,1,Belum Menikah,32,1,680000,500000,Telat
+19,3800000,Laki-laki,2,Menikah,37,2,710000,700000,Tepat
+20,2900000,Perempuan,3,Belum Menikah,23,0,530000,300000,Telat

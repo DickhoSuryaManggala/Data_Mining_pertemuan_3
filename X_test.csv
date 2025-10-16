@@ -1,0 +1,5 @@
+ID,Batas_Kredit,Jenis_Kelamin,Pendidikan,Status_Pernikahan,Umur,Riwayat_Pembayaran_BulanLalu,Tagihan_Bulan1,Pembayaran_Bulan1
+3,5000000,Laki-laki,2,Menikah,28,1,450000,300000
+13,3600000,Laki-laki,3,Menikah,36,0,660000,660000
+9,3000000,Laki-laki,3,Menikah,29,0,580000,400000
+1,2000000,Laki-laki,2,Menikah,25,-1,500000,500000
